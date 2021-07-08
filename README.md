@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movie Recommendation System - A Dissertation Project with Report based on MovieLens Open Source Dataset
 
 ## WHAT IS A RECOMMENDATION SYSTEM?
 
@@ -36,4 +36,4 @@
 #### SIMILAR ITEMS BUILD NEIGHBOURHOOD ON THE BEHAVIOUR OF THE USERS.
 #### IT DOES NOT USE MOVIE’S CONTENT TO COMPARE THE USER ACTIVITY.
 
-##### Code implemented in this repository showcases all the above concepts with data pre-processing before it as it is required in every project before implementing any algorithm to make it work to it's optimum level.
+##### Note : Code implemented in this repository showcases all the above concepts with data pre-processing before it as it is required in every project before implementing any algorithm to make it work to it's optimum level.
